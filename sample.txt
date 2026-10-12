@@ -1,0 +1,5 @@
+AWS Resource Provisioning Automation
+Project: Python and boto3
+Service: Amazon S3
+Region: ap-south-1
+Purpose: Testing automated file uploads
